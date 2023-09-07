@@ -10,20 +10,20 @@ border: 2px rgb(19, 108, 171) solid;
 
 }
 .img2{margin: 1px;
-margin-left: 120px;
+margin-left: 130px;
 width: 300px;
 height: 200px;
 padding: 1px;
 border: 2px rgb(19, 108, 171) solid;
 }
 .img3{margin: 1px;
-margin-left: 120px;
+margin-left: 140px;
 width: 300px;
 height: 200px;
 padding: 1px;
 border: 2px rgb(19, 108, 171) solid;}
 #veg{margin-left: 320px;}    
-.nonveg{margin-left: 115px;}
+.nonveg{margin-left: 120px;}
 .choose{text-align: center;}
 #one{
 width: 50%;
