@@ -2,7 +2,7 @@
 .one{text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
 .img1{margin: 1px;
-margin-left: 35px;
+margin-left: 50px;
 width: 300px;
 height: 200px;
 padding: 1px;
@@ -33,7 +33,7 @@ margin-left: 25%;
 #loc{margin: 5px;
 border: 1px;
 padding: 5px;
-width: 575px;
+width: 50%;
 height: 280px;
 margin-left: 25%;
 }
