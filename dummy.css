@@ -2,7 +2,7 @@
 .one{text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
 .img1{margin: 1px;
-margin-left: 0px;
+margin-left: 35px;
 width: 300px;
 height: 200px;
 padding: 1px;
@@ -10,35 +10,35 @@ border: 2px rgb(19, 108, 171) solid;
 
 }
 .img2{margin: 1px;
-margin-left: 80px;
+margin-left: 100px;
 width: 300px;
 height: 200px;
 padding: 1px;
 border: 2px rgb(19, 108, 171) solid;
 }
 .img3{margin: 1px;
-margin-left: 80px;
+margin-left: 100px;
 width: 300px;
 height: 200px;
 padding: 1px;
 border: 2px rgb(19, 108, 171) solid;}
-#veg{margin-left: 270px;}    
+#veg{margin-left: 320px;}    
 .nonveg{margin-left: 115px;}
 .choose{text-align: center;}
 #one{
-width: 530px;
+width: 50%;
 height: 350px;
 margin-left: 25%;
 }
 #loc{margin: 5px;
 border: 1px;
 padding: 5px;
-width: 50%;
-height: 300px;
+width: 575px;
+height: 280px;
 margin-left: 25%;
 }
 #loc2{
-margin-left: 265px;
+margin-left: 295px;
 }
 *{background-color: black;color: white;}
 legend{
