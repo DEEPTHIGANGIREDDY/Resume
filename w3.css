@@ -1,0 +1,182 @@
+.nav12{
+    padding: 10px;
+}
+.nav12{
+    position: sticky;
+    top: 10px;
+    box-sizing: border-box;
+    background-color: black;
+    padding: 5px;
+    border: 2px solid;   
+}
+.img1{
+    opacity: 0.9;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+    letter-spacing: 3.5px;
+    color: white;
+    font-size: large;
+
+}
+.nav2{
+    margin-left: 10px;
+    padding: 2px 2px;
+    background-color: black;
+
+}
+.nav2:hover{background-color: silver;
+    opacity: 0.9;
+}
+.nav3:hover{background-color: silver;
+    opacity: 0.9;
+}
+.nav4:hover{background-color: silver;
+    opacity: 0.9;
+}
+.nav5:hover{background-color: silver;
+    opacity: 0.9;
+}
+.nav3{
+    margin-left: 640px;
+    padding: 2px 2px;
+    background-color: black;
+    
+}
+.nav4,.nav5{
+    margin-left: 40px;
+    padding: 2px 2px;
+    background-color: black;
+}
+nav{
+    font-family: monospace;
+}
+.container-img{
+    position: relative;
+}
+.center{position: absolute;
+    top: 300px;
+    left: 550px;
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+    letter-spacing: 3.5px;
+}
+.img1{
+    width: 100%;
+  height: auto;
+}
+strong{
+    color: black;    
+    background-color: rgba(6,5,5,0.5);  
+}
+hr{color: silver;
+    opacity: 0.3;
+}
+.Proj-img1{
+    position: relative;
+}
+.left-top{position: absolute;
+    top: 0px;
+    left: 10px;
+    font-size: large;
+    background-color: black;
+    color: white;
+    padding: 7px 13px ;
+}
+.left-left{position: absolute;
+    top: 0px;
+    left: 310px;
+    font-size: large;
+    background-color: black;
+    color: white;
+    padding: 7px 13px ;
+}
+.left-right{position: absolute;
+    top: 0px;
+    left: 608px;
+    font-size: large;
+    background-color: black;
+    color: white;
+    padding: 7px 13px ;
+}
+.left-bottom{position: absolute;
+    top: 0px;
+    left: 908px;
+    font-size: large;
+    background-color: black;
+    color: white;
+    padding: 7px 13px ;
+}
+.names,h1,h4{
+    display: inline;
+    
+}
+.names12,pre{
+    display: inline-block;
+    
+}
+.cnt,h3{
+    display: inline-block;
+}
+.cnt1{
+    width: 240px;
+    padding: 10px 20px;
+    background-color: gainsboro;
+    text-align: center;
+    margin-left: 10px;
+
+}
+.cnt1:hover{
+    background-color: silver;
+    opacity: 0.9;
+}
+.cnt2{
+    width: 245px;
+    padding: 10px 20px;
+    background-color: gainsboro;
+    text-align: center;
+    margin-left: 10px;
+
+}
+.cnt2:hover{
+    background-color: silver;
+    opacity: 0.9;
+}
+.cnt3{
+    width: 245px;
+    padding: 10px 20px;
+    background-color: gainsboro;
+    text-align: center;
+    margin-left: 15px;
+
+}
+.cnt3:hover{
+    background-color: silver;
+    opacity: 0.9;
+}
+.cnt4{
+    width: 245px;
+    padding: 10px 20px;
+    background-color: gainsboro;
+    text-align: center;
+    margin-left: 10px;
+
+}
+.cnt4:hover{
+    background-color: silver;
+    opacity: 0.9;
+}
+input{
+    padding: 0.8em;
+}
+iframe{
+    margin-left: 10px;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
