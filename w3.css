@@ -56,7 +56,7 @@ nav{
     position: relative;
 }
 .center{position: absolute;
-    top: 470px;
+    top: 430px;
     left: 700px;
     text-align: center;
     font-size: xx-large;
@@ -95,7 +95,7 @@ hr{color: silver;
 }
 .left-right{position: absolute;
     top: 0px;
-    left: 769px;
+    left: 790px;
     font-size: large;
     background-color: black;
     color: white;
