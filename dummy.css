@@ -8,13 +8,10 @@
     display: inline-block;
     position: absolute;
     left: 15px;
-    font-family: Arial, Helvetica, sans-serif;
-    
+    font-family: Arial, Helvetica, sans-serif;   
 }
 .img{
-    position: relative;
-    
-    
+    position: relative;  
 }
 form{
     margin: 100px;
@@ -27,6 +24,8 @@ input{
 .flex{
 display: inline;
 display: flex;
+overflow: scroll;
+background-color: rgb(196, 132, 55);
 
 
 }
@@ -59,6 +58,7 @@ border-radius: 30px;
 #home{
 position: sticky;
 top: 1px;
+width: 100%;
 
 }
 #one1,#one2,#one3{
@@ -75,4 +75,23 @@ iframe{
     margin-left: 700px;
     position: sticky;
     top: 20px;
+}
+
+.one:hover{
+    
+    color: rgb(67, 27, 147);
+    border: 2px solid rgb(8, 236, 23);
+    border-radius: 30px; 
+    width: 150px;
+    font-size: 22px;
+}
+.a1 img:hover{
+    opacity: 0.5px;
+    color: rgb(73, 20, 179);
+    width: 150px;
+    height: 100px;
+    padding: 10px;
+    border: 2px solid rgb(8, 236, 23);
+    background-image: url(https://img.freepik.com/premium-vector/instagram-app-icon-social-media-logo-vector-illustration_277909-403.jpg?w=2000);
+    font-size: 22px;
 }

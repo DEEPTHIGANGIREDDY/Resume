@@ -46,10 +46,14 @@ body{
 }
 .d3{
     flex: 1;
+    overflow-y: auto;
+    
 }
-input{
+input:focus{
     width: 300px;
     padding: 8px;
+    background-color: green;
+    border: 2px solid red;
 }
 button{
     width: 75px;
