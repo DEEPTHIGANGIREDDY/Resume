@@ -87,7 +87,7 @@ hr{color: silver;
 }
 .left-left{position: absolute;
     top: 0px;
-    left: 403px;
+    left: 413px;
     font-size: large;
     background-color: black;
     color: white;
@@ -95,7 +95,7 @@ hr{color: silver;
 }
 .left-right{position: absolute;
     top: 0px;
-    left: 790px;
+    left: 789px;
     font-size: large;
     background-color: black;
     color: white;
@@ -103,7 +103,7 @@ hr{color: silver;
 }
 .left-bottom{position: absolute;
     top: 0px;
-    left: 1133px;
+    left: 1163px;
     font-size: large;
     background-color: black;
     color: white;
