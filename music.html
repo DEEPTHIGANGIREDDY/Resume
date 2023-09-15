@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music-beats</title>
+    <style>
+        body{
+            margin: 0;
+            background-color: black;
+            height: 80vh;
+            width: 100%;
+        }
+        #container{
+            height: 70px;
+        position: absolute;
+        left: 50%;
+        margin: -30px 0 0 -20px;
+        top: 50%;
+        width: 200px
+
+        }
+        .bar1{
+            background-color: rgb(170, 57, 176);
+            position: absolute;
+            bottom: 2px;
+            width: 4px;
+            height: 3px;
+            animation:music 1s linear infinite alternate-reverse ;
+        }
+        @keyframes music{
+            30%{
+                opacity: 0.35;
+                height: 25px;
+                background-color: rgb(106, 255, 0);
+            }
+            50%{
+                opacity: 0.35;
+                height: 50px;
+                background-color: rgb(216, 22, 129);
+            }
+            80%{
+                opacity: 0.35;
+                height: 60px;
+                background-color: rgb(24, 190, 151);
+            }
+            100%{
+                opacity: 1;
+                height: 80px;
+                background-color: rgb(28, 169, 191);
+            }
+        }
+        .bar1:nth-last-child(1){ left: 1px; animation-duration: 474ms ;}
+        .bar1:nth-last-child(2){ left: 7px; animation-duration: 434ms ;}
+        .bar1:nth-last-child(3){ left: 14px; animation-duration: 454ms ;}
+        .bar1:nth-last-child(4){ left: 19px; animation-duration: 424ms ;}
+        .bar1:nth-last-child(5){ left: 21px; animation-duration: 484ms ;}
+        .bar1:nth-last-child(6){ left: 26px; animation-duration: 470ms ;}
+        .bar1:nth-last-child(7){ left: 30px; animation-duration: 474ms ;}
+        .bar1:nth-last-child(8){ left: 35px; animation-duration: 434ms ;}
+        .bar1:nth-last-child(9){ left: 39px; animation-duration: 454ms ;}
+        .bar1:nth-last-child(10){ left: 43px; animation-duration: 424ms ;}
+        .bar1:nth-last-child(11){ left: 48px; animation-duration: 484ms ;}
+        .bar1:nth-last-child(12){ left: 51px; animation-duration: 470ms ;}
+    </style>
+</head>
+<body>
+    <div id="container">
+        <div class="bar1"></div>
+        <div class="bar1"></div>
+        <div class="bar1"></div>
+        <div class="bar1"></div>
+        <div class="bar1"></div>
+        <div class="bar1"></div>
+        <div class="bar1"></div>
+        <div class="bar1"></div>
+        <div class="bar1"></div>
+        <div class="bar1"></div>
+        <div class="bar1"></div>
+    </div>
+</body>
+</html>
