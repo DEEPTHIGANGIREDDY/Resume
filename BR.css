@@ -80,11 +80,16 @@ strong{
 hr{color: silver;
     opacity: 0.3;
 }
-h1,h4,pre{
+h1,h4{
     display: inline-block;
     
 }
 .sec1{
     width: 100%;
+}
+.para{
+    display: inline-block;
+    width: 250px;
+    
 }
 
