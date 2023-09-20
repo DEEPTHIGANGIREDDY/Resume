@@ -30,8 +30,20 @@ h1{
     column-gap: 20px;
   
 }
-footer{
-    position: absolute;
-    top: 2500px;
-    left: 300px;
+h2{
+    
+    margin-left: 500px;
+    background-color: black;
+    color: silver;
+    opacity: 0.8;
+    display: inline-block;
+    padding: 10px;
+
+    
+}
+h2:hover{
+    opacity: 0.6;
+    background-color: rgb(177, 194, 194);
+    border-radius: 30px;
+    color: white;
 }
