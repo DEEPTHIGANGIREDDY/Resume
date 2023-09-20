@@ -13,7 +13,7 @@ a{
     padding: 15px;
 }
 .bar{
-    margin-left: 45%;
+    margin-left: 56%;
 }
 .nav4,.nav5{
     margin-left: 3%;
@@ -89,7 +89,76 @@ h1,h4{
 }
 .para{
     display: inline-block;
-    width: 230px;
+    width: 250px;
+    
+}
+.cnt,h3{
+    display: inline-block;
+}
+.cnt1{
+    width: 240px;
+    padding: 10px 20px;
+    background-color: gainsboro;
+    text-align: center;
+    margin-left: 10px;
+
+}
+.cnt1:hover{
+    background-color: silver;
+    opacity: 0.9;
+}
+.cnt2{
+    width: 240px;
+    padding: 10px 20px;
+    background-color: gainsboro;
+    text-align: center;
+    margin-left: 10px;
+
+}
+.cnt2:hover{
+    background-color: silver;
+    opacity: 0.9;
+}
+.cnt3{
+    width: 240px;
+    padding: 10px 20px;
+    background-color: gainsboro;
+    text-align: center;
+    margin-left: 15px;
+
+}
+.cnt3:hover{
+    background-color: silver;
+    opacity: 0.9;
+}
+.cnt4{
+    width: 240px;
+    padding: 10px 20px;
+    background-color: gainsboro;
+    text-align: center;
+    margin-left: 10px;
+
+}
+.cnt4:hover{
+    background-color: silver;
+    opacity: 0.9;
+}
+input{
+    width: 96%;
+    margin-left: 10px;
+   padding: 10px;
+}
+iframe{
+    margin-left: 20px;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+@media screen and (min-width:100px) and (max-width:500px){
+   
     
 }
 
