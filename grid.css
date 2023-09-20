@@ -18,10 +18,13 @@ h1{
 .deepthi{
     background-color: gray;
     border-radius: 10px;
-    display: inline-block;
+    
     padding: 15px;
     text-decoration: none;
-    margin-left: 43%;
+    /* margin-left: 43%; */
+    justify-content: center;
+    align-items: center;
+    
     
 }
 
@@ -36,7 +39,8 @@ h2{
     background-color: black;
     color: silver;
     opacity: 0.8;
-    display: inline-block;
+  justify-content: center;
+  align-items: center;
     padding: 10px;
 
     
