@@ -1,0 +1,37 @@
+.g1{
+    text-align: center;
+    opacity: 0.65;
+   font-family: sans-serif;
+    
+}
+h1{
+    letter-spacing: 2px;
+    
+}
+#grid{
+    
+    display: grid;
+    grid-template-columns: 30% 30% 30% ;
+    grid-template-rows: 10% 10% 10%;
+    justify-content: center;
+}
+.deepthi{
+    background-color: gray;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 15px;
+    text-decoration: none;
+    margin-left: 43%;
+    
+}
+
+.deepthi:hover + #grid{
+    row-gap: 20px;
+    column-gap: 20px;
+  
+}
+footer{
+    position: absolute;
+    top: 2500px;
+    left: 300px;
+}
