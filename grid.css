@@ -1,0 +1,16 @@
+table,td{
+    display: inline;margin: 0;
+   border: 1px solid;
+    border-collapse: collapse;
+    
+}
+h1,p{
+    justify-content: center;
+    text-align: center;
+}
+nav{
+    margin-left: 39%;
+   
+   
+    
+}
